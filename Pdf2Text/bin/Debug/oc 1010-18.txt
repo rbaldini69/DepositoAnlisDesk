@@ -1,0 +1,356 @@
+(/Default.aspx)
+Lunes 24 de Septiembre, 12:21:36
+ 
+ 
+Gobierno de la República Argentina 
+—  2018 - Año del Centenario de la Reforma Universitaria
+Ver documento contractual
+Datos de la Orden de compra
+Número Orden de compra:
+68-1010-OC18
+Tipo:
+Original
+Descripción:
+Orden de compra generada por Proceso Nº 68-0084-CDI18
+Ejercicio:
+2018
+Fecha autorización:
+24/09/2018
+Fecha perfeccionamiento:
+24/09/2018
+Fecha inicio:
+24/09/2018
+Fecha ﬁnalización:
+16/10/2018
+Duración del contrato:
+15 Día/s hábil/es a partir del Inicio del documento contractual
+Datos del proceso
+Número expediente:
+EX-2018-30722956- -APN-DACMYSG#ANLIS
+Número procedimiento:
+68-0084-CDI18
+Tipo:
+Bienes
+Modalidad:
+Sin modalidad
+Clase:
+FERRETERIA, MATERIALES DE CONSTRUCCION, PINTURAS
+Encuadre legal:
+Decreto Delegado N° 1023/2001 Art. 25
+Decreto N°1030/2016 Art.14
+Número acto administrativo de adjudicación:
+DI-2018-46808076-APN-ANLIS#MSYDS
+Datos Comprador
+Servicio Administrativo Financiero:
+906 - Administración Nacional de Laboratorios e Institutos de Salud “Dr. Carlos Malbrán”
+Unidad Ejecutora:
+68/00 - Departamento de Administracion de Bienes - ANLIS
+Oﬁcina de compra:
+68/00 - Departamento de Administracion de Bienes - ANLIS
+Domicilio:
+Av. Velez Sarsﬁeld 563
+Código postal:
+No deﬁnido
+Provincia:
+Teléfono:
+4303-1803/4301-0730
+Email:
+compras@anlis.gov.ar
+Datos adjudicatario
+Razón social:
+PINTURERIA ROSMAR S.A..
+Número ente:
+6772
+Número CUIT/CUIL/NIT:
+30-57086127-8
+IVA:
+No deﬁnido
+Domicilio:
+JUAN BAUTISTA ALBERDI 3715
+Código postal:
+C1407GZE
+Localidad:
+Ciudad Autónoma de Buenos Aires
+Provincia:
+Ciudad Autónoma de Buenos Aires
+Teléfono:
+541146723131
+Fax:
+541146723131
+Email:
+licitaciones@rosmar.com.ar
+ Renglón Alternativa
+Código
+catálogo Descripción Cantidad
+Unidad
+medida
+Precio
+unitario Moneda Total Acciones
+1 1 2.5.5-
+6979.254
+PINTURAS;
+TIPO: LATEX,
+PRESENTACION:
+ENVASE X 20 L,
+COMPUESTOS
+VOLATILES: SIN,
+PORCENTAJE DE
+PLOMO: 0 %
+2,00 UNIDAD 2.813,00 Peso
+Argentino
+$
+5.626,00
+Renglón Alternativa
+Código
+catálogo Descripción Cantidad
+Unidad
+medida
+Precio
+unitario Moneda Total Acciones
+2 1 2.5.5-
+579.28
+MASILLAS;
+PRESENTACION:
+ENVASE X 32 Kg
+2,00 UNIDAD 623,00 Peso
+Argentino
+$
+1.246,00
+Renglón Alternativa
+Código
+catálogo Descripción Cantidad
+Unidad
+medida
+Precio
+unitario Moneda Total Acciones
+3 1 2.3.4-
+999.29
+PAPELES DE
+LIJA; TIPO: AL
+AGUA,
+NUMERO: 100,
+PRESENTACION:
+POR UNIDAD
+25,00 UNIDAD 14,00 Peso
+Argentino
+$
+350,00
+Renglón Alternativa
+Código
+catálogo Descripción Cantidad
+Unidad
+medida
+Precio
+unitario Moneda Total Acciones
+4 1 2.3.4-
+999.28
+PAPELES DE
+LIJA; NUMERO:
+120,
+PRESENTACION:
+POR UNIDAD,
+TIPO: AL AGUA
+25,00 UNIDAD 14,00 Peso
+Argentino
+$
+350,00
+Renglón Alternativa
+Código
+catálogo Descripción Cantidad
+Unidad
+medida
+Precio
+unitario Moneda Total Acciones
+5 1 2.6.5-
+677.6
+YESO EN POLVO;
+PESO: 1 Kg, USO:
+CONSTRUCCION,
+PRESENTACION:
+BOLSA
+4,00 UNIDAD 35,00 Peso
+Argentino
+$
+140,00
+
+
+
+
+
+Total documento contractual
+Importe total
+7.712,00
+Importe boniﬁcado
+0,00
+Importe neto
+7.712,00
+Moneda
+Peso Argentino
+Detalle de entrega
+Renglón Alternativa
+Código
+ítem Descripción Cantidad Dirección Plazo Observaciones
+1 1 2.5.5-
+6979.254
+PINTURAS; TIPO:
+LATEX,
+PRESENTACION:
+ENVASE X 20 L,
+COMPUESTOS
+VOLATILES: SIN,
+PORCENTAJE DE
+PLOMO: 
+ 
+Ver más
+2,000000 Av. Velez
+Sarsﬁeld
+563
+Durante los 15
+Días hábiles a
+partir de
+Perfeccionamiento
+del documento
+contractual
+Se deberá
+coordinar la
+entrega con el
+Deposito
+Central de esta
+ANLIS. TEL:
+4301-9005.
+MAIL:
+entregas... 
+Ver más
+2 1 2.5.5-
+579.28
+MASILLAS;
+PRESENTACION:
+ENVASE X 32 Kg 
+2,000000 Av. Velez
+Sarsﬁeld
+563
+Durante los 15
+Días hábiles a
+partir de
+Perfeccionamiento
+del documento
+contractual
+Se deberá
+coordinar la
+entrega con el
+Deposito
+Central de esta
+ANLIS. TEL:
+4301-9005.
+MAIL:
+entregas... 
+Ver más
+ Renglón Alternativa
+Código
+ítem Descripción Cantidad Dirección Plazo Observaciones
+3 1 2.3.4-
+999.29
+PAPELES DE LIJA;
+TIPO: AL AGUA,
+NUMERO: 100,
+PRESENTACION:
+POR UNIDAD 
+25,000000 Av. Velez
+Sarsﬁeld
+563
+Durante los 15
+Días hábiles a
+partir de
+Perfeccionamiento
+del documento
+contractual
+Se deberá
+coordinar la
+entrega con el
+Deposito
+Central de esta
+ANLIS. TEL:
+4301-9005.
+MAIL:
+entregas... 
+Ver más
+4 1 2.3.4-
+999.28
+PAPELES DE LIJA;
+NUMERO: 120,
+PRESENTACION:
+POR UNIDAD,
+TIPO: AL AGUA 
+25,000000 Av. Velez
+Sarsﬁeld
+563
+Durante los 15
+Días hábiles a
+partir de
+Perfeccionamiento
+del documento
+contractual
+Se deberá
+coordinar la
+entrega con el
+Deposito
+Central de esta
+ANLIS. TEL:
+4301-9005.
+MAIL:
+entregas... 
+Ver más
+5 1 2.6.5-
+677.6
+YESO EN POLVO;
+PESO: 1 Kg, USO:
+CONSTRUCCION,
+PRESENTACION:
+BOLSA 
+4,000000 Av. Velez
+Sarsﬁeld
+563
+Durante los 15
+Días hábiles a
+partir de
+Perfeccionamiento
+del documento
+contractual
+Se deberá
+coordinar la
+entrega con el
+Deposito
+Central de esta
+ANLIS. TEL:
+4301-9005.
+MAIL:
+entregas... 
+Ver más
+Autorizadores
+ 
+Nombre autoridad Tipo de Autorizador Cargo Fecha autorización
+MARCELO DAMIAN MAZZONE Presupuestario Jefe de compras 24/09/2018
+MARCELO DAMIAN MAZZONE Documento Contractual Jefe de compras 24/09/2018
+ImprimirVolver
+(../Default.aspx)
+(http://www.argentina.gob.ar/modernizacion)
+Mesa de ayuda
+  4600-6214 (tel:+5491146006214)
+  Horario de atención: 9 a 18 hs
+  O envíenos por favor un ticket aquí (http://incidencias.modernizacion.gob.ar/servicedesk/customer/portal/6)
+Oﬁcina Nacional de Contrataciones
+  4600-6213 (tel:+5491146006213)
+  Av. Roque Saenz Peña 637 EP
+Sistema de Información de Proveedores
+  4600-6215 (tel:+5491146006215)
+  Horario de atención: 9 a 18 hs
+Links externos
+Boletín Oﬁcial de la República Argentina (https://www.boletinoﬁcial.gob.ar/)
+Argentina Compra (https://www.argentinacompra.gov.ar)
+Infoleg (http://www.infoleg.gob.ar/?page_id=91)
+Avisos sobre Navegadores
+Términos y Condiciones de Uso
+Preguntas Frecuentes
+v5.0.813.57667_NACION_NET462
+PRDFINMSAPPB07
+

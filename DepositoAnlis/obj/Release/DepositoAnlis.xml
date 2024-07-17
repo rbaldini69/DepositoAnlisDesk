@@ -1,0 +1,301 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DepositoAnlis
+</name>
+</assembly>
+<members>
+<member name="T:DepositoAnlis.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.aguarde">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.application_office_excel_2474">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.arrow_left">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.arrow_right">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.closewindowapplication_cerca_ventan_2874">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.LogoANLIS">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.maximizethewindow_theapplication_maximizar_2873">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.minimize_thewindow_theapplication_2872">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DepositoAnlis.My.Resources.Resources.ok_accept">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSet.DEVOLUCIONESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSet.DEVOLUCIONESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSet.DEVOLUCIONESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSetTableAdapters.DEVOLUCIONESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DepositoAnlis.AnlisDepDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DepositoAnlis.AnlisDepDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DepositoAnlis.AnlisDepDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.UpdateAll(DepositoAnlis.AnlisDepDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet.DEVOLUCIONESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet.dtAjustesCNGMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet.DEVOLUCIONESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet.dtAjustesCNGMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet.DEVOLUCIONESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSet.dtAjustesCNGMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.DEVOLUCIONESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DepositoAnlis.AnlisDepGeneticaTestDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DepositoAnlis.AnlisDepGeneticaTestDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DepositoAnlis.AnlisDepGeneticaTestDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.UpdateAll(DepositoAnlis.AnlisDepGeneticaTestDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DepositoAnlis.AnlisDepGeneticaTestDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DepositoAnlis.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1.DEVOLUCIONESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1.dtAjustesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1.DEVOLUCIONESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1.dtAjustesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1.DEVOLUCIONESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1.dtAjustesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1TableAdapters.DEVOLUCIONESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.UpdateUpdatedRows(DepositoAnlis.dtAjustesStock1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.UpdateInsertedRows(DepositoAnlis.dtAjustesStock1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.UpdateDeletedRows(DepositoAnlis.dtAjustesStock1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.UpdateAll(DepositoAnlis.dtAjustesStock1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DepositoAnlis.dtAjustesStock1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

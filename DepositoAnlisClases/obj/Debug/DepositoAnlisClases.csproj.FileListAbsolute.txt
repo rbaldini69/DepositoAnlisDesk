@@ -1,0 +1,5 @@
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\DepositoAnlisClases\bin\Debug\DepositoAnlisClases.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\DepositoAnlisClases\bin\Debug\DepositoAnlisClases.pdb
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\DepositoAnlisClases\obj\Debug\DepositoAnlisClases.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\DepositoAnlisClases\obj\Debug\DepositoAnlisClases.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\DepositoAnlisClases\obj\Debug\DepositoAnlisClases.pdb
