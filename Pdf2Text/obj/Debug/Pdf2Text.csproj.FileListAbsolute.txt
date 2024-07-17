@@ -1,0 +1,127 @@
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\commons-logging.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\obj\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\PARSER PDF\Pdf2Text.Full.20150420\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\commons-logging.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\Stock\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\commons-logging.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\commons-logging.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\MALBRAN\CD-ANLIS\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\commons-logging.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\Users\Adrian\Desktop\MALBRAN\StockSVN\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\commons-logging.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csprojAssemblyReference.cache
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\SVNwc\stockWinforms\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\commons-logging.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\fontbox-1.8.9.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\IKVM.Runtime.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\pdfbox-1.8.9.dll
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csprojAssemblyReference.cache
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.exe
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\bin\Debug\Pdf2Text.pdb
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.exe
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.pdb
+D:\SVNwc\Fuentes\DepositoAnlis\Pdf2Text\obj\Debug\Pdf2Text.csproj.AssemblyReference.cache
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\bin\Debug\Pdf2Text.exe.config
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\bin\Debug\Pdf2Text.exe
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\bin\Debug\Pdf2Text.pdb
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\obj\Debug\Pdf2Text.csproj.AssemblyReference.cache
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\obj\Debug\Pdf2Text.csproj.CoreCompileInputs.cache
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\obj\Debug\Pdf2Text.csproj.CopyComplete
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\obj\Debug\Pdf2Text.exe
+C:\Users\rbaldini.ANLIS2\Documents\GitHub\DepositoAnlisDesk\Pdf2Text\obj\Debug\Pdf2Text.pdb
